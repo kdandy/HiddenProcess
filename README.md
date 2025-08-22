@@ -1,3 +1,4 @@
+
 1. Buka ProcessHider.sln di Visual Studio
 2. Pilih konfigurasi Release|x64 (atau Debug|x64)
 3. Build Solution (Ctrl+Shift+B)
